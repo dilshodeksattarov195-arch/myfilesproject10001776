@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsetch",
+        "uuid": 17903856,
+        "checksum": "o8jkpj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
